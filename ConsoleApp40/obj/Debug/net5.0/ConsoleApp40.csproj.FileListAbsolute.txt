@@ -1,0 +1,15 @@
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.exe
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.deps.json
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.runtimeconfig.json
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.runtimeconfig.dev.json
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.dll
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net5.0\ref\ConsoleApp40.dll
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\bin\Debug\net5.0\ConsoleApp40.pdb
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.AssemblyInfoInputs.cache
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.AssemblyInfo.cs
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.dll
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ref\ConsoleApp40.dll
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.pdb
+C:\Users\STUDENT-4310\source\repos\ConsoleApp40\ConsoleApp40\obj\Debug\net5.0\ConsoleApp40.genruntimeconfig.cache
